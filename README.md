@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.Rayleigh;
+})();
 })();
 </script>
 ```
@@ -306,6 +308,7 @@ y = rayleigh.quantile( 1.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-ctor@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var rayleigh = new Rayleigh( 2.0, 4.0 );
 
@@ -321,6 +324,7 @@ var s2 = rayleigh.variance;
 var y = rayleigh.cdf( 0.8 );
 // returns ~0.077
 
+})();
 })();
 </script>
 </body>
