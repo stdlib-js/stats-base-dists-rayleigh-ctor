@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-ctor@esm/index.mjs';
+import Rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-ctor@v0.2.2-esm/index.mjs';
 ```
 
 #### Rayleigh( \[sigma] )
@@ -292,7 +292,7 @@ y = rayleigh.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-ctor@esm/index.mjs';
+import Rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-ctor@v0.2.2-esm/index.mjs';
 
 var rayleigh = new Rayleigh( 2.0, 4.0 );
 
