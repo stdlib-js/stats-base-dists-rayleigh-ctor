@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-30)
+## Unreleased (2026-01-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`da376aa`](https://github.com/stdlib-js/stdlib/commit/da376aaaf20f9eacc241279eba60a6de5d476c00) - **bench:** update random value generation [(#9860)](https://github.com/stdlib-js/stdlib/pull/9860) _(by Harsh Yadav)_
 -   [`50b3a2c`](https://github.com/stdlib-js/stdlib/commit/50b3a2c95317bf69b879709c648aacf908439c16) - **docs:** fix function name tags _(by Philipp Burckhardt)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
