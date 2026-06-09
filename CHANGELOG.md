@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-03)
+## Unreleased (2026-06-09)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`2b9b521`](https://github.com/stdlib-js/stdlib/commit/2b9b52153789b56fedef02c1f9aa8158929b2730) - pass `sigma` to `skewness` in `stats/base/dists/rayleigh/ctor` [(#12721)](https://github.com/stdlib-js/stdlib/pull/12721)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`2b9b521`](https://github.com/stdlib-js/stdlib/commit/2b9b52153789b56fedef02c1f9aa8158929b2730) - **fix:** pass `sigma` to `skewness` in `stats/base/dists/rayleigh/ctor` [(#12721)](https://github.com/stdlib-js/stdlib/pull/12721) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
 
